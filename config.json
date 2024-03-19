@@ -1,0 +1,25 @@
+{
+    "services": [
+      {
+        "name": "Service",
+        "url": "https://exemple.com:5000"
+      },
+      {
+        "name": "Service",
+        "url": "http://exemple.com:5000"
+      },
+      {
+        "name": "Service",
+        "url": "http://exemple.com:5000"
+      },
+      {
+        "name": "Service",
+        "url": "http://exemple.com:5000"
+      },
+      {
+        "name": "Service",
+        "url": "http://exemple.com:5000"
+      }
+    ]
+  }
+  
