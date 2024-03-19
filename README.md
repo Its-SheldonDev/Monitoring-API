@@ -37,8 +37,8 @@ Install with npm ✨
 To deploy this project with docker run
 
 ```bash
-  docker build -t Monitoring-API .
-  docker run -p 3000:3000 -v your/config/path/config.json:/app/config.json Monitoring-API
+  docker build -t monitoring .
+  docker run -p 3000:3000 -v your/config/path/config.json:/app/config.json monitoring
 
 ```
 
